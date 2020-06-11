@@ -363,6 +363,10 @@ a:hover {
     z-index: 2;
 }
 
+span{
+    font-size: 10px;
+}
+
 @media (min-width: 768px) {
     .site-navigation {
         position: absolute;
